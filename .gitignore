@@ -49,3 +49,6 @@
 /ios/
 /cmake-build-*
 /3rdpart/ZLToolKit/cmake-build-mq/
+mac_build
+MediaServerUI
+vendor
